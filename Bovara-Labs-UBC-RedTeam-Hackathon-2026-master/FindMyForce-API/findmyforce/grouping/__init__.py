@@ -1,1 +1,0 @@
-from findmyforce.grouping.signal_grouping import group_observations

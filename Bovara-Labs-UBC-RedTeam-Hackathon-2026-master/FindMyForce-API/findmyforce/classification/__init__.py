@@ -1,2 +1,0 @@
-from findmyforce.classification.features import extract_features
-from findmyforce.classification.ml_classifier import classify_signal
